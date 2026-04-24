@@ -8,8 +8,8 @@ A Mario-themed side-scroller utilizing Flappy Bird mechanics, built with the fro
 
 Guide Mario through an endless run of incoming pipes. Press any key or tap the screen to jump — time it right or it's game over. The longer you survive, the better.
 
-- **Jump** — `Spacebar` / `Any Key` / `Tap` (mobile)
-- **Restart** — Click the on-screen button after a collision
+- **Jump** — `Spacebar` / `Tap` (mobile)
+- **Restart** — Click the on-screen button after a collision or press spacebar
 
 ---
 
